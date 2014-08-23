@@ -4,18 +4,21 @@ body {
     width: 80% ;
     padding: 0 10px ;
     overflow: auto ;
-    background-color: White  ;
+    background-color: white  ;
     background="http://imgur.com/nNQ4GXc.jsp" ;
 }
 
 
-header {
+.head {
     height:80px;
   　text-align:center;
   　line-height:80px;
-    background-color= green ;
 }
 
-h1{
-    text-align:center ;
+.head li{
+    display: inline-block;
+}
+
+.title{
+    font-size: 100px ;
 }
