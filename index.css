@@ -4,7 +4,7 @@ body {
     width: 80% ;
     padding: 0 10px ;
     overflow: auto ;
-    background-color: white  ;
+    background-color: #D0D0D0  ;
     background="http://imgur.com/nNQ4GXc.jsp" ;
 }
 
@@ -31,4 +31,22 @@ body {
 button{
     font-size: 20px ;
     font-family: 微軟正黑體 ;
+}
+
+.name1{
+    font-size:40px;
+}
+
+.text{
+    font-size:20px;
+    line-height:50px ;
+}
+
+.name2{
+    font-size:30px;
+}
+
+.name3{
+    font-size:20px;
+    font-family: 新細明體 ;
 }
