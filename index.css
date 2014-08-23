@@ -11,14 +11,24 @@ body {
 
 .head {
     height:80px;
-  　text-align:center;
   　line-height:80px;
+　  background-color: red ;
 }
 
 .head li{
+    text-align:center;
     display: inline-block;
 }
 
 .title{
     font-size: 100px ;
+}
+
+.list{
+    text-align:center;
+}
+
+button{
+    font-size: 20px ;
+    font-family: 微軟正黑體 ;
 }
